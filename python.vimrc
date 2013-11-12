@@ -17,7 +17,7 @@
 
 " Number of spaces that a pre-existing tab is equal to.
 " For the amount of space used for a new tab use shiftwidth.
-au BufRead,BufNewFile *py,*pyw,*.c,*.h set tabstop=8
+au BufRead,BufNewFile *py,*pyw,*.c,*.h set tabstop=4
 
 " What to use for an indent.
 " This will affect Ctrl-T and 'autoindent'.
