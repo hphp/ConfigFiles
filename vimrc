@@ -18,3 +18,6 @@ syntax on
 set ts=4
 set expandtab
 set autoindent
+
+set encoding=utf-8
+set fileencoding=utf-8
